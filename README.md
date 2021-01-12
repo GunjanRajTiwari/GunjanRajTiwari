@@ -1,6 +1,6 @@
 <h1 align="center">Hey there!👋&nbsp; I am Gunjan Raj Tiwari.</h1>
 <h4 align="center">A Wantapreneur and A Software Developer.</h3>
-<p align="left"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQGYELW7qiv6Lw/profile-displayphoto-shrink_400_400/0/1609745550616?e=1616025600&v=beta&t=ZFx0hBJIf8pyuuTVvJs-AdrNQj95osDlm1_Wffrl-I4" alt="Gunjan Raj Tiwari" /></p>
+<p align="center"> <img src="https://media-exp1.licdn.com/dms/image/C5603AQGYELW7qiv6Lw/profile-displayphoto-shrink_400_400/0/1609745550616?e=1616025600&v=beta&t=ZFx0hBJIf8pyuuTVvJs-AdrNQj95osDlm1_Wffrl-I4" alt="Gunjan Raj Tiwari" /></p>
 
 ### You can find me doing 
 
