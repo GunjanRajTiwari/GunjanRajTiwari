@@ -12,7 +12,7 @@
 
 ### What I want to learn
 
-<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge">      <img src="https://img.shields.io/badge/-blockchain solidity-ffd800?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge">      <img src="https://img.shields.io/badge/-Chrome-Extension-ffd800?style=for-the-badge"> 
 
 <br>
 
