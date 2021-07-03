@@ -13,7 +13,7 @@
 
 ### What I want to learn
 
-<img src="https://img.shields.io/badge/-REACT-ffae42?style=for-the-badge">      <img src="https://img.shields.io/badge/-Chrome%20Extension-%23FFDD33?style=for-the-badge"> 
+<img src="https://img.shields.io/badge/-NEXT%20JS-ffae42?style=for-the-badge">      <img src="https://img.shields.io/badge/-WEBRTC-%23FFDD33?style=for-the-badge"> 
 
 <br>
 
